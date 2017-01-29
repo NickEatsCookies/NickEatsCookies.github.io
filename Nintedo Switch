@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>
+      Nintendo Switch
+    </title>
+    <link href="css.css"
+    type="text/css"
+    rel="stylesheet">
+  </head>
+  <body>
+    <section id="content">
+      <header>
+        <nav>
+            <img src="http://cdn.atomix.vg/wp-content/uploads/2016/10/nintendo-switch-banner.jpg">
+          <h1>
+    Coming March 3rd
+    </h1>
+        </nav>
+    </header>
+    <section>
+      <article>
+        <p>
+Discover the Nintendo Switch! Nintendo's newest console is designed to let you play the same games either at home or on the go. Watch the reveal trailer <a href="https://www.youtube.com/watch?v=f5uik5fgIaI">here!</a>
+        </p>
+      </article>
+      <article>
+        <h2>
+          What do we think?
+        </h2>
+        <p>
+Here we'll have quotes about our thoughts on the Nintendo Switch.
+        </p>
+      </article>
+    </section>
+    <footer>
+    </footer>
+  </section>
+  </body>
+</html>

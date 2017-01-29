@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <title>Games are amazing</title>
+  </head>
+  <body>
+    <header>
+      <h1>I hate nintendo now</h1>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="About us">About us</a>
+        </li>
+      </ul>
+    </nav>
+    <section>
+    <article>
+      <h2>Why im angry</h2>
+      <p>
+        Nintendo switch is going to be extreamly dissapoionting, due to the lack of, games and CPU/GPU power.
+      </p>
+      <img src="gentoo.jpg">
+    </article>
+    <article>
+      <h1>This is why is sucks</h1>
+      <p>
+        My body is not ready for this kind of dissapointment.
+      </p>
+    </article>
+    <footer>
+    </footer>
+  </section>
+  <section>
+      <article>
+      </article>
+    </section>
+  </body>
+</html>
